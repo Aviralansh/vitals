@@ -23,6 +23,10 @@
 
 <br><br>
 
+## Download Model: [Vitals gguf 16bit](https://huggingface.co/Aviralansh/vitals-gguf-16bit)
+
+<br><br>
+
 ## Features
 - Easy to use
 - Uses less memory
