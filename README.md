@@ -23,10 +23,6 @@
 
 <br><br>
 
-## Download Model: [Vitals gguf 16bit](https://huggingface.co/Aviralansh/vitals-gguf-16bit)
-
-<br><br>
-
 ## Features
 - Easy to use
 - Uses less memory
@@ -41,7 +37,13 @@ If I still have credits on my hosting server, you can use [VITALS](https://youtu
 
 <br><br>
 
-# Installation Instructions
+### Download Model: 
+- [Vitals gguf 16bit](https://huggingface.co/Aviralansh/vitals-gguf-16bit)
+
+<>br<br>
+
+# Build locally
+
 <br>
 
 ### Prerequisites
