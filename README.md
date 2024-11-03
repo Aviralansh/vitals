@@ -1,4 +1,4 @@
-# AI Healthcare App
+# AI Healthcare App ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Welcome to the AI Healthcare App! This application is designed to assist users with healthcare inquiries using a fine-tuned AI model. The model is powered by **Ollama** and has been fine-tuned using **Unsloth**. The frontend is built with pure HTML, CSS, and JavaScript, ensuring a lightweight and responsive user experience.
 
@@ -14,8 +14,16 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 ### Prerequisites
 - Git
 - Ollama CLI
+- OS: linux (recommended for smooth installation)
+- 8GB of free RAM (minimum)
+- 8CPUs (minimum)
 
-
+### Install using script
+1. Run the install.py
+   ```bash
+   cd vitals
+   python3 install.py
+   ```
 
 ### For Windows
 
@@ -48,7 +56,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 
 
 
-#### For Linux
+### For Linux
 
 1. Clone the repository:
     ```bash
@@ -82,7 +90,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 
 
 
-#### For Mac
+### For Mac
 
 1. Clone the repository:
     ```bash
