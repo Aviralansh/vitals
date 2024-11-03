@@ -1,4 +1,4 @@
-<h1>VITALS<sup style="font-size: 0.6em; color: #666;">prototype</sup></h1>
+<h1>VITALS<sup style="font-size: 0.2em; color: #666;">prototype</sup></h1>
 
 > **Vitals Medical Assistant is a fine-tuned AI tool based on the Llama 3 model, tailored to address medical queries. Leveraging Ollama's service for AI interaction, this assistant enables users to gain health insights and assistance with medical-related questions. Designed for accessibility and user empowerment, Vitals Medical Assistant is deployable locally or on a server, aiming to make healthcare knowledge easily accessible.**
 
