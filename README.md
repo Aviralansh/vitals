@@ -1,4 +1,5 @@
-# VITALS ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+# VITALS
+Vitals Medical Assistant is a fine-tuned AI tool based on the Llama 3 model, tailored to address medical queries. Leveraging Ollama's service for AI interaction, this assistant enables users to gain health insights and assistance with medical-related questions. Designed for accessibility and user empowerment, Vitals Medical Assistant is deployable locally or on a server, aiming to make healthcare knowledge easily accessible.
 
 <br>
 
@@ -159,3 +160,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 # Acknowledgements
 - Trained using [Unsloath](https://github.com/unslothai/unsloth)
 - Running Service by [Ollama](https://github.com/ollama/ollama)
+
+<br><br>
+# License
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
