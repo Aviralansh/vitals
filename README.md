@@ -127,4 +127,6 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
     ```
 
 
-
+# Acknowledgements
+[Unsloth](https://github.com/unslothai/unsloth)
+[Ollama](https://github.com/ollama/ollama)
