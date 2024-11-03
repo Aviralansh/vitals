@@ -6,18 +6,18 @@
 
 ## What is Vitals?
 > ### **Model's response**: 
-> I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions.
+> __I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions.__
 >
-> As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support.
+> __As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support.__
 >
-> I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:
+> __I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:__
 >
-> 1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms.
+> __1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms.
 > 2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma.
 > 3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction.
 > 4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications.
 >
-> My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?
+> My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?__
 
 <br><br>
 
