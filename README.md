@@ -18,12 +18,19 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 - 8GB of free RAM (minimum)
 - 8CPUs (minimum)
 
+
+## Auto install
+
 ### Install using script
+
 1. Run the install.py
    ```bash
    cd vitals
    python3 install.py
    ```
+
+   
+## Manual install
 
 ### For Windows
 
