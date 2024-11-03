@@ -38,6 +38,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 
 # Installation Instructions
 <br>
+
 ### Prerequisites
 - Git
 - Ollama CLI
