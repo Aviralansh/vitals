@@ -1,11 +1,27 @@
-# AI Healthcare App ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+# VITALS ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Welcome to the AI Healthcare App! This application is designed to assist users with healthcare inquiries using a fine-tuned AI model. The model is powered by **Ollama** and has been fine-tuned using **Unsloth**. The frontend is built with pure HTML, CSS, and JavaScript, ensuring a lightweight and responsive user experience.
+
+## What is Vitals?
+### AI's response: 
+> I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions.
+
+> As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support.
+>
+> I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:
+>
+> 1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms.
+> 2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma.
+> 3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction.
+> 4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications.
+>
+> My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?
 
 
 ## Features
-- AI-powered healthcare assistance
-- Light Model
+- Easy to use
+- Uses less memory
+- 8 Billion+ Parameters
+- Lightning fast
 - Fine-tuned model for accurate responses
 
 
