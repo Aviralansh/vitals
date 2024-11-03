@@ -5,7 +5,7 @@
 <br>
 
 ## What is Vitals?
-> ### AI's response: 
+> ### **Model's response**: 
 > I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions.
 >
 > As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support.
