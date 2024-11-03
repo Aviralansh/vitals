@@ -15,6 +15,7 @@
 >
 > _1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms._
 > 2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma._
+>
 > _3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction.
 > _4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications._
 >
