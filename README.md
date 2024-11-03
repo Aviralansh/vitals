@@ -9,7 +9,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 - Fine-tuned model for accurate responses
 
 
-# Use on your browser <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyMHB4IiBmaWxsPSIjNjM0RkEyIj48cGF0aCBkPSJtMjQzLTI0MC01MS01MSA0MDUtNDA1SDI0MHYtNzJoNDgwdjQ4MGgtNzJ2LTM1N0wyNDMtMjQwWiIvPjwvc3ZnPg==" />
+## Use on your browser <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyMHB4IiBmaWxsPSIjNjM0RkEyIj48cGF0aCBkPSJtMjQzLTI0MC01MS01MSA0MDUtNDA1SDI0MHYtNzJoNDgwdjQ4MGgtNzJ2LTM1N0wyNDMtMjQwWiIvPjwvc3ZnPg=="/>
 
 ## Installation Instructions
 
