@@ -25,7 +25,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 
 2. Move into the repository directory:
     ```bash
-    cd your-repo
+    cd vitals
     ```
 
 3. Download Ollama for Windows from the [Ollama website](https://ollama.com/download/windows).
@@ -54,7 +54,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 
 2. Move into the repository directory:
     ```bash
-    cd your-repo
+    cd vitals
     ```
 
 3. Download Ollama for Linux
@@ -86,7 +86,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 
 2. Move into the repository directory:
     ```bash
-    cd your-repo
+    cd vitals
     ```
 
 3. Download Ollama for Mac from the [Ollama website](https://ollama.com/download/mac).
