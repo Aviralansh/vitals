@@ -37,10 +37,10 @@ If I still have credits on my hosting server, you can use [VITALS](https://youtu
 
 <br><br>
 
-### Download Model: 
+## Download Model: 
 - [Vitals gguf 16bit](https://huggingface.co/Aviralansh/vitals-gguf-16bit)
 
-<>br<br>
+<br><br>
 
 # Build locally
 
