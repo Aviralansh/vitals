@@ -9,8 +9,7 @@ Welcome to the AI Healthcare App! This application is designed to assist users w
 - Fine-tuned model for accurate responses
 
 
-# Use on your browser ![now](http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#634FA2"><path d="m243-240-51-51 405-405H240v-72h480v480h-72v-357L243-240Z) 
-
+# Use on your browser <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjBweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyMHB4IiBmaWxsPSIjNjM0RkEyIj48cGF0aCBkPSJtMjQzLTI0MC01MS01MSA0MDUtNDA1SDI0MHYtNzJoNDgwdjQ4MGgtNzJ2LTM1N0wyNDMtMjQwWiIvPjwvc3ZnPg==" />
 
 ## Installation Instructions
 
