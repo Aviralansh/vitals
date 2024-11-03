@@ -14,9 +14,9 @@
 > _I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:_
 >
 > _1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms._
-> 2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma._
+> _2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma._
 >
-> _3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction.
+> _3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction._
 > _4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications._
 >
 > _My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?_
