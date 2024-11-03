@@ -35,12 +35,12 @@
 ## Use on your browser
 If I still have credits on my hosting server, you can use [VITALS](https://youtu.be/QB7ACr7pUuE?si=SIUpzbVyND3OWQ9V) now 
 
-<br><br>
+<br>
 
 ## Download Model: 
 - [Vitals gguf 16bit](https://huggingface.co/Aviralansh/vitals-gguf-16bit)
 
-<br><br>
+<br>
 
 # Build locally
 
