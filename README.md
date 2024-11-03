@@ -6,19 +6,21 @@
 <br>
 
 ## What is Vitals?
-> ### **Model's response**: 
-> _I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions._
->
-> _As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support._
->
-> _I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:_
->
-> _1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms._
-> 2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma._
-> _3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction.
-> _4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications._
->
-> _My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?_
+<blockquote style="color: #8c8cd9;">
+  ### **Model's response**: 
+  _I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions._
+  <br><br>
+  _As Vitals, my primary goal is to help you navigate the complexities of your health journey. Whether you're experiencing symptoms, managing chronic conditions, or seeking advice on preventive care, I'm here to offer guidance and support._
+  <br><br>
+  _I'll ask you questions about your medical history, current symptoms, and any concerns you may have. Then, using my advanced algorithms and knowledge base, I'll provide tailored recommendations for:_
+  <br>
+  _1. Symptom relief: Find ways to alleviate discomfort, pain, or other symptoms._<br>
+  _2. Condition management: Offer strategies for managing chronic conditions, such as diabetes, hypertension, or asthma._<br>
+  _3. Preventive care: Provide tips on maintaining a healthy lifestyle, including nutrition, exercise, and stress reduction._<br>
+  _4. Medication guidance: Help you understand medication regimens, potential side effects, and interactions with other medications._
+  <br><br>
+  _My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?_
+</blockquote>
 
 <br><br>
 
