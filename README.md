@@ -1,6 +1,6 @@
 # VITALS ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-
+<br>
 ## What is Vitals?
 > ### AI's response: 
 > I'm Vitals! I'm a friendly AI-powered healthcare assistant designed to listen to your medical concerns and provide personalized solutions.
@@ -16,7 +16,7 @@
 >
 > My ultimate goal is to empower you with the knowledge and confidence to take control of your health. So, what's been going on? What brings you to Vitals today?
 
-
+<br><br>
 ## Features
 - Easy to use
 - Uses less memory
@@ -24,12 +24,13 @@
 - Lightning fast
 - Fine-tuned model for accurate responses
 
-
+<br>
 ## Use on your browser
 If I still have credits on my hosting server, you can use [VITALS](http://139.84.143.233/) now 
 
+<br><br>
 ## Installation Instructions
-
+<br>
 ### Prerequisites
 - Git
 - Ollama CLI
@@ -37,7 +38,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 - 8GB of free RAM (minimum)
 - 8CPUs (minimum)
 
-
+<br>
 ## Auto install
 
 ### Install using script
@@ -48,7 +49,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
    python3 install.py
    ```
 
-   
+<br>
 ## Manual install
 
 ### For Windows
@@ -81,7 +82,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     ```
 
 
-
+<br>
 ### For Linux
 
 1. Clone the repository:
@@ -115,7 +116,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     ```
 
 
-
+<br>
 ### For Mac
 
 1. Clone the repository:
@@ -145,7 +146,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     python3 -m http.server
     ```
 
-
+<br><br>
 # Acknowledgements
 - Trained using [Unsloath](https://github.com/unslothai/unsloth)
 - Running Service by [Ollama](https://github.com/ollama/ollama)
