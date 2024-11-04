@@ -33,7 +33,7 @@
 <br>
 
 ## Use on your browser
-If I still have credits on my hosting server, you can use [VITALS](https://youtu.be/QB7ACr7pUuE?si=SIUpzbVyND3OWQ9V) now 
+If I still have credits on my hosting server, you can use [VITALS](http://139.84.143.233) now 
 
 <br>
 
