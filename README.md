@@ -175,18 +175,3 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 <br><br>
 # License
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
-
-
-
-
-
-
-
-
-blockquote {
-    color: #8c8cd9; /* Replace with your desired color */
-    border-left: 4px solid #8c8cd9; /* Optional: Adds a colored left border */
-    padding-left: 10px; /* Optional: Adds padding */
-}
