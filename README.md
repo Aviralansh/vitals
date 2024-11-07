@@ -90,7 +90,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     curl -L -o unsloth.F16.gguf https://huggingface.co/Aviralansh/vitals-gguf-16bit/resolve/main/unsloth.F16.gguf
     ```
 
-5. Create the model:
+5. Build the model:
     ```bash
     ollama create vitals -f ./Modelfile
     ```
@@ -125,7 +125,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     curl -L -o unsloth.F16.gguf https://huggingface.co/Aviralansh/vitals-gguf-16bit/resolve/main/unsloth.F16.gguf
     ```
 
-5. Create the model:
+5. Build the model:
     ```bash
     ollama create vitals -f ./Modelfile
     ```
@@ -157,7 +157,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     curl -L -o unsloth.F16.gguf https://huggingface.co/Aviralansh/vitals-gguf-16bit/resolve/main/unsloth.F16.gguf
     ```
 
-5. Create the model:
+5. Build the model:
     ```bash
     ollama create vitals -f ./Modelfile
     ```
