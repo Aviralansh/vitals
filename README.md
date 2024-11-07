@@ -173,5 +173,6 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 - Running Service by [Ollama](https://github.com/ollama/ollama)
 
 <br>
+
 # License
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
