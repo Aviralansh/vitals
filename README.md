@@ -33,7 +33,7 @@
 <br>
 
 ## Architecture Diagram
-![img](https://github.com/Aviralansh/vitals/edit/main/\assets\architecture-diagram/archDiagram.png) 
+![img](main/assets/architecture-diagram/archDiagram.png) 
 
 ## Use on your browser
 If I still have credits on my hosting server, you can use [VITALS](http://139.84.143.233) now 
