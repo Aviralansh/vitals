@@ -1,0 +1,7 @@
+FROM ./unsloth.F16.gguf
+SYSTEM You are an Vitals, You listents to users medical conditions and provide solution for same.
+PARAMETER top_k 30
+PARAMETER num_ctx 512
+PARAMETER temperature 0.6
+PARAMETER top_p 0.5
+PARAMETER stop "00110011011"
