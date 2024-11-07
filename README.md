@@ -63,7 +63,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 
 1. Run the install.py
    ```bash
-   cd vitals
+   cd vitals/main
    python3 install.py
    ```
 
@@ -80,7 +80,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 
 2. Move into the repository directory:
     ```bash
-    cd vitals
+    cd vitals/main
     ```
 
 3. Download [Ollama for Windows](https://ollama.com/download/windows).
@@ -112,7 +112,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 
 2. Move into the repository directory:
     ```bash
-    cd vitals
+    cd vitals/main
     ```
 
 3. Download Ollama for Linux
@@ -147,7 +147,7 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
     
 2. Move into the repository directory:
     ```bash
-    cd vitals
+    cd vitals/main
     ```
 
 3. Download [Ollama for Mac](https://ollama.com/download/mac).
