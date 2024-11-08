@@ -38,6 +38,8 @@
 ## Laravel based ChatBot UI
 - Added laravel based Chatbot UI [TalkTua](https://github.com/Aviralansh/TalkTua) 
 
+<br>
+
 ## Architecture Diagram
 ![img](main/assets/architecture-diagram/archDiagram.png) 
 
