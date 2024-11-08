@@ -44,7 +44,7 @@
 ![img](main/assets/architecture-diagram/archDiagram.png) 
 
 ## Use on your browser
-If I still have credits on my hosting server, you can use [VITALS](http://139.84.143.233) now 
+If I still have credits on my hosting server, you can use [VITALS](http://139.84.175.109) now 
 
 <br>
 
