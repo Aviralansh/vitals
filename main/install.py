@@ -4,23 +4,24 @@ import sys
 import platform
 
 # Variables
-REPO_URL = "https://github.com/yourusername/your-repo.git"
+REPO_URL = "https://github.com/yourusername/vitals.git"
 MODEL_URL = "https://huggingface.co/Aviralansh/vitals-gguf-16bit/resolve/main/unsloth.F16.gguf"
 MODEL_NAME = "unsloth.F16.gguf"
-DIRECTORY_NAME = "your-repo"
+DIRECTORY_NAME = "vitals/main/"
 
 # Helper function to run commands
 def run_command(command, check=True):
     result = subprocess.run(command, shell=True, check=check)
     return result.returncode == 0
 
-# Clone the repository
-print("Cloning repository...")
-if not run_command(f"git clone {REPO_URL}"):
-    print("Failed to clone repository.")
-    sys.exit(1)
-
-os.chdir(DIRECTORY_NAME)
+# Install curl
+if platform.system() == "Linux":
+    print("Installing curl...")
+    os.system("sudo apt install curl")
+if platform.system() == "Windows":
+    print("[!] Please install curl and wget before proceeding")
+else:
+    pass
 
 # Check for Ollama installation
 if not run_command("command -v ollama", check=False):
