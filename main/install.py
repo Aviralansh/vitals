@@ -2,16 +2,12 @@ import os
 import subprocess
 import sys
 import platform
+import shutil
 
-# clear console
-if platform.system() == "Linux":
-    os.system("clear")
-    print("Starting...")
-if platform.system() == "Windows":
-    os.system("cls")
-    print("Starting...")
-else:
-    pass
+# Clear console and initialize
+clear_command = "cls" if platform.system() == "Windows" else "clear"
+os.system(clear_command)
+print("Starting...")
 
 # Variables
 REPO_URL = "https://github.com/Aviralansh/vitals.git"
@@ -23,14 +19,16 @@ def run_command(command, check=True):
     result = subprocess.run(command, shell=True, check=check)
     return result.returncode == 0
 
-# Install curl
-if platform.system() == "Linux":
-    print("Install curl..")
-    os.system("sudo apt install curl -y")
-    print("done..")
+# Install curl if necessary (Linux only)
+if platform.system() == "Linux" and shutil.which("curl") is None:
+    print("Installing curl...")
+    if not run_command("sudo apt update && sudo apt install curl -y"):
+        print("Failed to install curl. Please install it manually.")
+        sys.exit(1)
+    print("Curl installed successfully.")
 
 # Check for Ollama installation
-if not run_command("command -v ollama", check=False):
+if shutil.which("ollama") is None:
     print("Ollama is not installed.")
     if platform.system() == "Linux":
         print("Installing Ollama on Linux...")
@@ -44,10 +42,10 @@ if not run_command("command -v ollama", check=False):
 # Download the model file
 print("Downloading model file...")
 if not run_command(f"curl -L -o {MODEL_NAME} {MODEL_URL}"):
-    print("Failed to download the model file.")
+    print("Failed to download the model file. Check your internet connection and try again.")
     sys.exit(1)
 
-# Create the model using Ollama
+# Create the model with Ollama
 print("Creating model with Ollama...")
 if not run_command(f"ollama create vitals -f ./{MODEL_NAME}"):
     print("Failed to create the model in Ollama.")
