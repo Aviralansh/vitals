@@ -3,11 +3,20 @@ import subprocess
 import sys
 import platform
 
+# clear console
+if platform.system() == "Linux":
+    os.system("clear")
+    print("Starting...")
+if platform.system() == "Windows":
+    os.system("cls")
+    print("Starting...")
+else:
+    pass
+
 # Variables
-REPO_URL = "https://github.com/yourusername/vitals.git"
+REPO_URL = "https://github.com/Aviralansh/vitals.git"
 MODEL_URL = "https://huggingface.co/Aviralansh/vitals-gguf-16bit/resolve/main/unsloth.F16.gguf"
 MODEL_NAME = "unsloth.F16.gguf"
-DIRECTORY_NAME = "vitals/main/"
 
 # Helper function to run commands
 def run_command(command, check=True):
@@ -16,12 +25,9 @@ def run_command(command, check=True):
 
 # Install curl
 if platform.system() == "Linux":
-    print("Installing curl...")
-    os.system("sudo apt install curl")
-if platform.system() == "Windows":
-    print("[!] Please install curl and wget before proceeding")
-else:
-    pass
+    print("Install curl..")
+    os.system("sudo apt install curl -y")
+    print("done..")
 
 # Check for Ollama installation
 if not run_command("command -v ollama", check=False):
