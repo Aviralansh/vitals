@@ -181,15 +181,11 @@ If I still have credits on my hosting server, you can use [VITALS](http://139.84
 - [Technical Documentation](https://drive.google.com/drive/folders/1w4h_sAWyt1Pe3J4jp0yrvl_r0s0AgrjQ?usp=drive_link)
 - [PPT](https://docs.google.com/presentation/d/1pEPpy0xF5MY_hoqS_ePFCcvPpUHjJhCN/edit?usp=sharing&ouid=110618296902673250450&rtpof=true&sd=true)
 
-<br>
-
 
 <br><br>
 # Acknowledgements
 - Trained using [Unsloath](https://github.com/unslothai/unsloth)
 - Running Service by [Ollama](https://github.com/ollama/ollama)
-
-<br>
 
 # License
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
